@@ -1,2 +1,2 @@
-# kansoy.github.ac.uk
+# github.com/kansoy
 Fatih Kansoy
